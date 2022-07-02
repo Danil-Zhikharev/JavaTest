@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae30f0ee-e6d3-4ab6-8091-69ebd4415eba" name="Changes" comment="Last_commit-29">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ae30f0ee-e6d3-4ab6-8091-69ebd4415eba" name="Changes" comment="Last_commit-02">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/TEST"
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/TEST/src",
+    "two.files.diff.last.used.folder": "C:/Users/User/IdeaProjects/TEST/src"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -52,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656501076979</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Last_commit-02">
+      <created>1656762304766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656762304766</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,6 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Last_commit-29" />
-    <option name="LAST_COMMIT_MESSAGE" value="Last_commit-29" />
+    <MESSAGE value="Last_commit-02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last_commit-02" />
   </component>
 </project>
