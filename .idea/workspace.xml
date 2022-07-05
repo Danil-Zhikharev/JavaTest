@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae30f0ee-e6d3-4ab6-8091-69ebd4415eba" name="Changes" comment="Last_commit-05-07">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="ae30f0ee-e6d3-4ab6-8091-69ebd4415eba" name="Changes" comment="Last_commit-06-07-03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,17 +28,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/TEST&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;two.files.diff.last.used.folder&quot;: &quot;C:/Users/User/IdeaProjects/TEST/src&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/TEST",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "two.files.diff.last.used.folder": "C:/Users/User/IdeaProjects/TEST/src"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="TestDefault" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -97,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657047338260</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Last_commit-06-07-00">
+      <created>1657047653233</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657047653233</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Last_commit-06-07-03">
+      <created>1657047848310</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657047848310</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +128,8 @@
     <MESSAGE value="Last_commit-29" />
     <MESSAGE value="Last_commit-02" />
     <MESSAGE value="Last_commit-05-07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Last_commit-05-07" />
+    <MESSAGE value="Last_commit-06-07-00" />
+    <MESSAGE value="Last_commit-06-07-03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last_commit-06-07-03" />
   </component>
 </project>
